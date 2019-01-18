@@ -1,34 +1,23 @@
+#index
+{
+   text-align: center;
+}
 body
 {
    background-color: #FFFFFF;
-   color: #000000;
-   font-family: Arial;
-   font-weight: normal;
-   font-size: 13px;
-   line-height: 1.1875;
-   margin: 0;
-   padding: 0;
 }
-#wb_Heading1
+#wb_Text1 
 {
    background-color: transparent;
    background-image: none;
    border: 0px solid #000000;
-   margin: 0;
    padding: 0;
-   text-align: left;
+   text-align: center;
+   vertical-align: top;
 }
-#Heading1
+#wb_Text1
 {
-   color: #000000;
-   font-family: Arial;
-   font-weight: bold;
-   font-size: 32px;
+   display: block;
    margin: 0;
-   text-align: left;
-}
-#Heading1 a
-{
-   color: #000000;
-   text-decoration: none;
+   width: 100%;
 }
