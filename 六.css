@@ -4,7 +4,7 @@
 }
 body
 {
-   background-color: #FFFFFF;
+   background-color: #FFEBEE;
 }
 #wb_Image1
 {
@@ -96,8 +96,8 @@ ul.LayoutGrid1-grid-a, ul.LayoutGrid1-grid-b, ul.LayoutGrid1-grid-c, ul.LayoutGr
 {
    display: inline-block;
    margin: 0;
-   width: 180px;
-   height: 140px;
+   width: 300px;
+   height: 102px;
 }
 #Line1
 {
