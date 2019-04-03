@@ -6,6 +6,22 @@ body
 {
    background-color: #FFEBEE;
 }
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 0;
+   text-align: left;
+   vertical-align: top;
+}
+#wb_Text1
+{
+   display: inline-block;
+   margin: 0;
+   width: 190px;
+   height: 122px;
+}
 .LayoutGrid1-grid-a, .LayoutGrid1-grid-b, .LayoutGrid1-grid-c, .LayoutGrid1-grid-d, .LayoutGrid1-grid-solo
 {
    overflow: hidden;
@@ -82,22 +98,6 @@ ul.LayoutGrid1-grid-a, ul.LayoutGrid1-grid-b, ul.LayoutGrid1-grid-c, ul.LayoutGr
    width: 92px;
    height: 92px;
    vertical-align: top;
-}
-#wb_Text1 
-{
-   background-color: transparent;
-   background-image: none;
-   border: 0px solid #000000;
-   padding: 0;
-   text-align: left;
-   vertical-align: top;
-}
-#wb_Text1
-{
-   display: inline-block;
-   margin: 0;
-   width: 190px;
-   height: 98px;
 }
 #Line1
 {
